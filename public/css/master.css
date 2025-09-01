@@ -1,0 +1,27 @@
+
+.UlStyle{
+    background: #0b57d0;
+    width: 85px;
+    color: #fff;
+    padding: 5px;
+    height: 41px;
+    text-align: center;
+    border-radius: 6px;
+    margin: 18px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    transition: all 0.3s;
+}
+
+a{
+    transition: all 0.5s;
+}
+.UlStyle:hover{
+    box-shadow: none;
+    padding: 2px;
+    width: 80px;
+    color: #fff;
+}
+
+input{
+    outline: none;
+}

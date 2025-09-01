@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Zain";
+    transition: all 0.5s ease-in-out;
+}
+
+@font-face {
+    src: url("../fonts/Zain-Bold.ttf");
+    font-family: 'Zain';
+}
+@font-face {
+    src: url("../fonts/Zain-ExtraBold.ttf");
+    font-family: 'ZainExtraBold';
+}
+@font-face {
+    src: url("../fonts/Zain-Regular.ttf");
+    font-family: 'ZainRegular';
+}

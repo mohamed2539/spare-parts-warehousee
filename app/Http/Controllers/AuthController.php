@@ -71,6 +71,8 @@ class AuthController extends Controller
     //     return view('auth.register');
     // }
 
+    //tettttttttttttttttts
+
     public function registerForm()
     {
         $departments = \App\Models\Department::all(); // جيب الأقسام
